@@ -1,6 +1,6 @@
 // Write your code here
 
-class Dog {
+class Breakfast {
   
   constructor(name, breed) {
     this.name = name;
@@ -8,6 +8,3 @@ class Dog {
   }
   
 }
-
-
-let bigFllyfluffyDog1 = new Dog('Buzz', 'greatPyrenees');
